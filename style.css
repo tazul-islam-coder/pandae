@@ -1,0 +1,63 @@
+
+.container{
+    margin-bottom: 80px;
+}
+.orange-bg{
+    background-color:#feeae9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now-button{
+   background-image:linear-gradient(to bottom,#ff5898 0%,#ff136f 100%);
+   color: white;
+   border-radius: 8px;
+   border: none;
+   padding: 10px 20px;
+   cursor: pointer;
+}
+/*
+.buy-now-button:hover{
+    background: linear-gradient(#b85233, #b12c3e);
+}
+*/
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat-1{
+    background:linear-gradient(rgb(240, 165, 26) 0%, #f35390) 100%;
+}
+.cat-2{
+    background:linear-gradient( rgb(206, 192, 4) 0%, #08f0aa) 100%;
+}
+.cat-3{
+    background:linear-gradient( rgb(157, 72, 206) 0%, #1c58c7) 100%;
+}
+.cetagories h1{
+    color: white;
+}
+.cetagories img{
+    width:150px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px rgba(170, 167, 167, 0.822);
+}
+.card-footer{
+    border-top:none;
+    background: white;
+}
+#Aboutus{
+    height: 300px;
+}
+#Aboutus h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
